@@ -1,4 +1,4 @@
-# A Privacy-Preserving Federated Learning Framework for Context-Aware Electricity Theft Detection
+# Topic: A Privacy-Preserving Federated Learning Framework for Context-Aware Electricity Theft Detection
 This repository contains the official implementation of a Privacy-Preserving Federated Learning (FL) framework designed to detect electricity theft in smart grids. The system leverages Self-Attention mechanisms and Differential Privacy to balance high detection accuracy with consumer data protection.
 
 ## 🧐 Overview
