@@ -42,4 +42,9 @@ The model achieves a robust F1-score even under high privacy constraints ($\epsi
 
 <img width="569" height="650" alt="image" src="https://github.com/user-attachments/assets/d6e1683d-ec21-4c45-9165-cd9ffbd224b0" />
 
+## 📈 Vizualization
+
+<img width="1905" height="561" alt="image" src="https://github.com/user-attachments/assets/d8f63c6d-b5d1-49af-9671-e2b818f37116" />
+
+
 
